@@ -1,0 +1,829 @@
+#: code/dashboard.php:32
+msgid "TO"
+msgstr ""
+
+#: core/unit.angle.php:12
+#: core/units.php:47
+msgid "Angle"
+msgstr ""
+
+#: core/unit.angle.php:15
+msgid "Radian"
+msgstr ""
+
+#: core/unit.angle.php:16
+msgid "Grad"
+msgstr ""
+
+#: core/unit.angle.php:17
+msgid "Degree"
+msgstr ""
+
+#: core/unit.angle.php:18
+#: core/unit.time.php:19
+msgid "Minute"
+msgstr ""
+
+#: core/unit.angle.php:19
+#: core/unit.time.php:18
+msgid "Second"
+msgstr ""
+
+#: core/unit.angle.php:20
+msgid "Revolution"
+msgstr ""
+
+#: core/unit.area.php:12
+#: core/units.php:48
+msgid "Area"
+msgstr ""
+
+#: core/unit.area.php:25
+msgid "Square Meter"
+msgstr ""
+
+#: core/unit.area.php:26
+msgid "Square Kilometer"
+msgstr ""
+
+#: core/unit.area.php:27
+msgid "Square Centimeter"
+msgstr ""
+
+#: core/unit.area.php:28
+msgid "Square Milliimeter"
+msgstr ""
+
+#: core/unit.area.php:29
+msgid "Square Inch"
+msgstr ""
+
+#: core/unit.area.php:30
+msgid "Square Mile"
+msgstr ""
+
+#: core/unit.area.php:31
+msgid "Square Foot"
+msgstr ""
+
+#: core/unit.area.php:32
+msgid "Square Yard"
+msgstr ""
+
+#: core/unit.area.php:33
+msgid "Are"
+msgstr ""
+
+#: core/unit.area.php:34
+msgid "Hectare"
+msgstr ""
+
+#: core/unit.area.php:35
+msgid "Acre"
+msgstr ""
+
+#: core/unit.brightness.php:12
+#: core/units.php:49
+msgid "Brightness"
+msgstr ""
+
+#: core/unit.brightness.php:21
+msgid "Stilb"
+msgstr ""
+
+#: core/unit.brightness.php:22
+msgid "Candela / square centimeter"
+msgstr ""
+
+#: core/unit.brightness.php:23
+msgid "Candela / square meter"
+msgstr ""
+
+#: core/unit.brightness.php:24
+msgid "Candela / square inch"
+msgstr ""
+
+#: core/unit.brightness.php:25
+msgid "Candela / square foot"
+msgstr ""
+
+#: core/unit.brightness.php:26
+msgid "Lambert"
+msgstr ""
+
+#: core/unit.brightness.php:27
+msgid "FootLambert"
+msgstr ""
+
+#: core/unit.brightness.php:28
+msgid "MeterLambert"
+msgstr ""
+
+#: core/unit.brightness.php:29
+msgid "MilliLambert"
+msgstr ""
+
+#: core/unit.currency.php:12
+#: core/units.php:50
+msgid "Currency"
+msgstr ""
+
+#: core/unit.electrical_charge.php:12
+#: core/units.php:52
+msgid "Electrical Charge"
+msgstr ""
+
+#: core/unit.electrical_charge.php:15
+msgid "Coulomb"
+msgstr ""
+
+#: core/unit.electrical_charge.php:16
+msgid "Nanocoulomb"
+msgstr ""
+
+#: core/unit.electrical_charge.php:17
+msgid "Microcoulomb"
+msgstr ""
+
+#: core/unit.electrical_charge.php:18
+msgid "Millicoulomb"
+msgstr ""
+
+#: core/unit.electrical_charge.php:19
+msgid "Kilocoulomb"
+msgstr ""
+
+#: core/unit.electrical_charge.php:20
+msgid "Megacoulomb"
+msgstr ""
+
+#: core/unit.electrical_charge.php:21
+msgid "Gigacoulomb"
+msgstr ""
+
+#: core/unit.electrical_charge.php:22
+msgid "Abcoulomb"
+msgstr ""
+
+#: core/unit.electrical_charge.php:23
+msgid "Electromagnetic unit of charge"
+msgstr ""
+
+#: core/unit.electrical_charge.php:24
+msgid "Electrostatic unit of chargee"
+msgstr ""
+
+#: core/unit.electrical_charge.php:25
+msgid "Faraday"
+msgstr ""
+
+#: core/unit.electrical_charge.php:26
+msgid "Franklin"
+msgstr ""
+
+#: core/unit.electrical_charge.php:27
+msgid "Ampere Hour"
+msgstr ""
+
+#: core/unit.electrical_charge.php:28
+msgid "Ampere Minute"
+msgstr ""
+
+#: core/unit.electrical_charge.php:29
+msgid "Ampere Second"
+msgstr ""
+
+#: core/unit.electrical_charge.php:30
+msgid "Milliampere Hour"
+msgstr ""
+
+#: core/unit.electrical_charge.php:31
+msgid "Milliampere Minute"
+msgstr ""
+
+#: core/unit.electrical_charge.php:32
+msgid "Milliampere Second"
+msgstr ""
+
+#: core/unit.electric_current.php:12
+#: core/units.php:51
+msgid "Electric Current"
+msgstr ""
+
+#: core/unit.electric_current.php:15
+msgid "Ampere"
+msgstr ""
+
+#: core/unit.electric_current.php:16
+msgid "Milliampere"
+msgstr ""
+
+#: core/unit.electric_current.php:17
+msgid "Abamper"
+msgstr ""
+
+#: core/unit.electric_current.php:18
+msgid "Megampere"
+msgstr ""
+
+#: core/unit.electric_current.php:19
+msgid "Statampere"
+msgstr ""
+
+#: core/unit.energy.php:12
+#: core/units.php:53
+msgid "Energy"
+msgstr ""
+
+#: core/unit.energy.php:15
+msgid "Watt Hour"
+msgstr ""
+
+#: core/unit.energy.php:16
+msgid "Watt Second"
+msgstr ""
+
+#: core/unit.energy.php:17
+msgid "Milliwatt Hour"
+msgstr ""
+
+#: core/unit.energy.php:18
+#: core/unit.energy.php:19
+msgid "Kilowatt Hour"
+msgstr ""
+
+#: core/unit.energy.php:20
+msgid "Gigawatt Hour"
+msgstr ""
+
+#: core/unit.energy.php:21
+msgid "Calorie"
+msgstr ""
+
+#: core/unit.energy.php:22
+msgid "Kilocalorie"
+msgstr ""
+
+#: core/unit.energy.php:23
+msgid "Joule"
+msgstr ""
+
+#: core/unit.energy.php:24
+msgid "Kilojoule"
+msgstr ""
+
+#: core/unit.energy.php:25
+msgid "Megajoule"
+msgstr ""
+
+#: core/unit.energy.php:26
+msgid "Gigajoule"
+msgstr ""
+
+#: core/unit.energy.php:27
+msgid "Microjoule"
+msgstr ""
+
+#: core/unit.energy.php:28
+msgid "Millijoule"
+msgstr ""
+
+#: core/unit.frequency.php:12
+#: core/units.php:54
+msgid "Frequency"
+msgstr ""
+
+#: core/unit.frequency.php:15
+msgid "Hertz"
+msgstr ""
+
+#: core/unit.frequency.php:16
+msgid "Kilohertz"
+msgstr ""
+
+#: core/unit.frequency.php:17
+msgid "Megahertz"
+msgstr ""
+
+#: core/unit.frequency.php:18
+msgid "Gigahertz"
+msgstr ""
+
+#: core/unit.frequency.php:19
+msgid "Terahertz"
+msgstr ""
+
+#: core/unit.frequency.php:20
+msgid "Millihertz"
+msgstr ""
+
+#: core/unit.frequency.php:21
+msgid "Radian / Hour"
+msgstr ""
+
+#: core/unit.frequency.php:22
+msgid "Radian / Minute"
+msgstr ""
+
+#: core/unit.frequency.php:23
+msgid "Radian / Second"
+msgstr ""
+
+#: core/unit.frequency.php:24
+msgid "Degree / Hour"
+msgstr ""
+
+#: core/unit.frequency.php:25
+msgid "Degree / Minute"
+msgstr ""
+
+#: core/unit.frequency.php:26
+msgid "Degree / Second"
+msgstr ""
+
+#: core/unit.frequency.php:27
+msgid "Cycle / Second"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:12
+#: core/units.php:55
+msgid "Fuel Consumption"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:25
+msgid "Liter/100 Kilometer"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:26
+msgid "Liter/100 Mile"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:27
+msgid "Kilometer/Liter"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:28
+msgid "Mile/Liter"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:29
+msgid "Kilometer/Gallon - UK"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:30
+msgid "Kilometer/Gallon - US"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:31
+msgid "Mile/Gallon - UK"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:32
+msgid "Mile/Gallon - US"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:33
+msgid "Gallon/100 Kilometer - UK"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:34
+msgid "Gallon/100 Kilometer - US"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:35
+msgid "Gallon/100 Mile - UK"
+msgstr ""
+
+#: core/unit.fuel_consumption.php:36
+msgid "Gallon/100 Mile - US"
+msgstr ""
+
+#: core/unit.length.php:12
+#: core/units.php:56
+msgid "Lenght or Distance"
+msgstr ""
+
+#: core/unit.length.php:15
+msgid "Millimeter"
+msgstr ""
+
+#: core/unit.length.php:16
+msgid "Centimeter"
+msgstr ""
+
+#: core/unit.length.php:17
+msgid "Decimeter"
+msgstr ""
+
+#: core/unit.length.php:18
+msgid "Meter"
+msgstr ""
+
+#: core/unit.length.php:19
+msgid "Kilometer"
+msgstr ""
+
+#: core/unit.length.php:20
+msgid "Inch"
+msgstr ""
+
+#: core/unit.length.php:21
+msgid "Feet"
+msgstr ""
+
+#: core/unit.length.php:22
+msgid "Yard"
+msgstr ""
+
+#: core/unit.length.php:23
+msgid "Mile"
+msgstr ""
+
+#: core/unit.memory.php:12
+#: core/units.php:57
+msgid "Memory"
+msgstr ""
+
+#: core/unit.memory.php:15
+msgid "Bit"
+msgstr ""
+
+#: core/unit.memory.php:16
+msgid "Byte"
+msgstr ""
+
+#: core/unit.memory.php:17
+msgid "Kilobyte"
+msgstr ""
+
+#: core/unit.memory.php:18
+msgid "Megabyte"
+msgstr ""
+
+#: core/unit.memory.php:19
+msgid "Gigabyte"
+msgstr ""
+
+#: core/unit.memory.php:20
+msgid "Terabyte"
+msgstr ""
+
+#: core/unit.memory.php:21
+msgid "Petabyte"
+msgstr ""
+
+#: core/unit.memory.php:22
+msgid "1 CD 74min"
+msgstr ""
+
+#: core/unit.memory.php:23
+msgid "1 CD 80min"
+msgstr ""
+
+#: core/unit.memory.php:24
+msgid "1 DVD"
+msgstr ""
+
+#: core/unit.memory.php:25
+msgid "1 DVD Dual Layer"
+msgstr ""
+
+#: core/unit.memory.php:26
+msgid "1 BD"
+msgstr ""
+
+#: core/unit.memory.php:27
+msgid "1 BD Dual Layer"
+msgstr ""
+
+#: core/unit.power.php:12
+#: core/units.php:58
+msgid "Power"
+msgstr ""
+
+#: core/unit.power.php:15
+msgid "Watt"
+msgstr ""
+
+#: core/unit.power.php:16
+msgid "Kilowatt"
+msgstr ""
+
+#: core/unit.power.php:17
+msgid "Megawatt"
+msgstr ""
+
+#: core/unit.power.php:18
+msgid "Gigawatt"
+msgstr ""
+
+#: core/unit.power.php:19
+msgid "Horsepower"
+msgstr ""
+
+#: core/unit.power.php:20
+msgid "Horsepower metric"
+msgstr ""
+
+#: core/unit.power.php:21
+msgid "Millihorsepower"
+msgstr ""
+
+#: core/unit.power.php:22
+msgid "Calorie / hour"
+msgstr ""
+
+#: core/unit.power.php:23
+msgid "Calorie / minute"
+msgstr ""
+
+#: core/unit.power.php:24
+msgid "Calorie / second"
+msgstr ""
+
+#: core/unit.power.php:25
+msgid "Joule / hour"
+msgstr ""
+
+#: core/unit.power.php:26
+msgid "Joule / minute"
+msgstr ""
+
+#: core/unit.power.php:27
+msgid "Joule / second"
+msgstr ""
+
+#: core/unit.sound.php:12
+#: core/units.php:59
+msgid "Sound"
+msgstr ""
+
+#: core/unit.sound.php:15
+msgid "Bel"
+msgstr ""
+
+#: core/unit.sound.php:16
+msgid "Decibel"
+msgstr ""
+
+#: core/unit.sound.php:17
+msgid "Neper"
+msgstr ""
+
+#: core/unit.speed.php:12
+#: core/units.php:60
+msgid "Speed"
+msgstr ""
+
+#: core/unit.speed.php:15
+msgid "Meters per second"
+msgstr ""
+
+#: core/unit.speed.php:16
+msgid "Kilometers per hour"
+msgstr ""
+
+#: core/unit.speed.php:17
+msgid "Miles per hour"
+msgstr ""
+
+#: core/unit.speed.php:18
+msgid "Knots"
+msgstr ""
+
+#: core/unit.temperature.php:12
+#: core/units.php:61
+msgid "Temperature"
+msgstr ""
+
+#: core/unit.temperature.php:15
+msgid "Celsius"
+msgstr ""
+
+#: core/unit.temperature.php:16
+msgid "Fahrenheit"
+msgstr ""
+
+#: core/unit.temperature.php:17
+msgid "Kelvin"
+msgstr ""
+
+#: core/unit.temperature.php:18
+msgid "Reaumur"
+msgstr ""
+
+#: core/unit.time.php:12
+#: core/units.php:62
+msgid "Time"
+msgstr ""
+
+#: core/unit.time.php:15
+msgid "Nanosecond"
+msgstr ""
+
+#: core/unit.time.php:16
+msgid "Microsecond"
+msgstr ""
+
+#: core/unit.time.php:17
+msgid "Millisecond"
+msgstr ""
+
+#: core/unit.time.php:20
+msgid "Hour"
+msgstr ""
+
+#: core/unit.time.php:21
+msgid "Day"
+msgstr ""
+
+#: core/unit.time.php:22
+msgid "Week"
+msgstr ""
+
+#: core/unit.time.php:23
+msgid "Month"
+msgstr ""
+
+#: core/unit.time.php:24
+msgid "Year"
+msgstr ""
+
+#: core/unit.time.php:25
+msgid "Century"
+msgstr ""
+
+#: core/unit.time.php:26
+msgid "Millennium"
+msgstr ""
+
+#: core/unit.volume.php:12
+#: core/units.php:63
+msgid "Volume"
+msgstr ""
+
+#: core/unit.volume.php:37
+msgid "Liter"
+msgstr ""
+
+#: core/unit.volume.php:38
+msgid "Deciliter"
+msgstr ""
+
+#: core/unit.volume.php:39
+msgid "Centiliter"
+msgstr ""
+
+#: core/unit.volume.php:40
+msgid "Milliliter"
+msgstr ""
+
+#: core/unit.volume.php:41
+msgid "Microliter"
+msgstr ""
+
+#: core/unit.volume.php:42
+msgid "Decaliter"
+msgstr ""
+
+#: core/unit.volume.php:43
+msgid "Hectoliter"
+msgstr ""
+
+#: core/unit.volume.php:44
+msgid "Cubic Decimeter"
+msgstr ""
+
+#: core/unit.volume.php:45
+msgid "Cubic Centimeter"
+msgstr ""
+
+#: core/unit.volume.php:46
+msgid "Cubic Millimeter"
+msgstr ""
+
+#: core/unit.volume.php:47
+msgid "Cubic Meter"
+msgstr ""
+
+#: core/unit.volume.php:48
+msgid "Cubic Kilometer"
+msgstr ""
+
+#: core/unit.volume.php:49
+msgid "Cup"
+msgstr ""
+
+#: core/unit.volume.php:50
+msgid "Table spoon"
+msgstr ""
+
+#: core/unit.volume.php:51
+msgid "Teas spoon"
+msgstr ""
+
+#: core/unit.volume.php:52
+msgid "Cup / US"
+msgstr ""
+
+#: core/unit.volume.php:53
+msgid "Table spoon / US"
+msgstr ""
+
+#: core/unit.volume.php:54
+msgid "Teas spoon / US"
+msgstr ""
+
+#: core/unit.volume.php:55
+msgid "Barrel Petroleum / US"
+msgstr ""
+
+#: core/unit.volume.php:56
+msgid "Gallon / US"
+msgstr ""
+
+#: core/unit.volume.php:57
+msgid "Quart / US"
+msgstr ""
+
+#: core/unit.volume.php:58
+msgid "Pint / US"
+msgstr ""
+
+#: core/unit.volume.php:59
+msgid "Barrel Dry / US"
+msgstr ""
+
+#: core/unit.volume.php:60
+msgid "Bushel / US"
+msgstr ""
+
+#: core/unit.volume.php:61
+msgid "Gallon Dry / US"
+msgstr ""
+
+#: core/unit.volume.php:62
+msgid "Quart Dry / US"
+msgstr ""
+
+#: core/unit.volume.php:63
+msgid "Pint Dry / US"
+msgstr ""
+
+#: core/unit.volume.php:64
+msgid "Bushel / UK"
+msgstr ""
+
+#: core/unit.volume.php:65
+msgid "Gallon / UK"
+msgstr ""
+
+#: core/unit.volume.php:66
+msgid "Quart / UK"
+msgstr ""
+
+#: core/unit.volume.php:67
+msgid "Pint / UK"
+msgstr ""
+
+#: core/unit.weight.php:12
+#: core/units.php:64
+msgid "Weight / Mass"
+msgstr ""
+
+#: core/unit.weight.php:15
+msgid "Milligram"
+msgstr ""
+
+#: core/unit.weight.php:16
+msgid "Gram"
+msgstr ""
+
+#: core/unit.weight.php:17
+msgid "Kilogram"
+msgstr ""
+
+#: core/unit.weight.php:18
+msgid "Tonne"
+msgstr ""
+
+#: core/unit.weight.php:19
+msgid "Ounce"
+msgstr ""
+
+#: core/unit.weight.php:20
+msgid "Pound"
+msgstr ""
+
+#: core/unit.weight.php:21
+msgid "Stone"
+msgstr ""
+
+#: core/unit.weight.php:22
+msgid "Quarter"
+msgstr ""
+
+#: core/unit.weight.php:23
+msgid "Carat"
+msgstr ""
+

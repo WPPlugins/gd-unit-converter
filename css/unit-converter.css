@@ -1,0 +1,9 @@
+#gd-unit-converter #gduc-from,#gd-unit-converter #gduc-to{width:100%;letter-spacing:-1px}
+#gd-unit-converter input#gduc-convert{font-size:16px;font-weight:bold;cursor:pointer;height:32px;width:42px;border:1px solid #aaaaaa}
+#gd-unit-converter input#gduc-result{font-size:20px;height:40px;padding:8px 4px;font-weight:bold;text-align:center;display:block;margin:0 auto;width:75%;margin-top:15px}
+#gd-unit-converter input#gduc-value{font-size:16px;height:32px;padding:4px;width:100%;margin-bottom:10px}
+#gd-unit-converter select{font-size:16px !important;height:32px !important;padding:4px !important}
+#gd-unit-converter select#gduc-type{width:100%;margin-bottom:10px}
+#gd-unit-converter table{margin:0 auto;width:100%}
+#gd-unit-converter table td{vertical-align:top;text-align:center}
+#gd-unit-copyright{margin-top:10px;padding-top:10px;border-top:1px solid #dfdfdf;font-size:11px;text-align:center}
